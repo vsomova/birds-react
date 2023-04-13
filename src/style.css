@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+}
+
+.birds-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  flex-shrink: 0;
+}
+
+.bird {
+  border: 1px solid black;
+  border-radius: 20px;
+  width: 40%;
+  padding: 25px;
+  margin: 25px;
+}
+
+.bird--name {
+  text-align: center;
+  font-family: Chalkduster, fantasy;
+  font-size: 2em;
+}
+
+.bird--song {
+  display: block;
+  margin: auto;
+  width: 90%;
+}
+
+.bird img {
+  width: 300px;
+  height: 300px;
+  display: block;
+  margin: auto;
+}
+
+.navbar {
+  height: 130px;
+  padding: 2px 70px;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  font-family: Chalkduster, fantasy;
+  font-size: 2em;
+}
