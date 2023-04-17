@@ -1,5 +1,5 @@
 # Description
-Simple website utilizing React Function components.
+Simple website about birds and their voices utilizing React Function components. 
 
 ## Media sources
 The audios were taken from [The Cornell Lab Bird Academy](dl.allaboutbirds.org). \
