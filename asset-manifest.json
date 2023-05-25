@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/birds-react/static/css/main.2cf73d9c.css",
-    "main.js": "/birds-react/static/js/main.0152b319.js",
+    "main.js": "/birds-react/static/js/main.5a18702b.js",
     "static/js/787.c9dcb1cc.chunk.js": "/birds-react/static/js/787.c9dcb1cc.chunk.js",
     "index.html": "/birds-react/index.html",
     "main.2cf73d9c.css.map": "/birds-react/static/css/main.2cf73d9c.css.map",
-    "main.0152b319.js.map": "/birds-react/static/js/main.0152b319.js.map",
+    "main.5a18702b.js.map": "/birds-react/static/js/main.5a18702b.js.map",
     "787.c9dcb1cc.chunk.js.map": "/birds-react/static/js/787.c9dcb1cc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2cf73d9c.css",
-    "static/js/main.0152b319.js"
+    "static/js/main.5a18702b.js"
   ]
 }
