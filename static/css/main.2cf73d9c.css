@@ -1,0 +1,2 @@
+*{box-sizing:border-box}.birds-list{display:flex;flex-direction:row;flex-shrink:0;flex-wrap:wrap;justify-content:space-evenly}.bird{border:1px solid #000;border-radius:20px;margin:25px;padding:25px;width:40%}.bird--name{font-family:Chalkduster,fantasy;font-size:2em;text-align:center}.bird--song{width:90%}.bird img,.bird--song{display:block;margin:auto}.bird img{height:300px;width:300px}.navbar{box-shadow:0 5px 10px rgba(0,0,0,.1);font-family:Chalkduster,fantasy;font-size:2em;height:130px;padding:2px 70px;text-align:center}
+/*# sourceMappingURL=main.2cf73d9c.css.map*/
