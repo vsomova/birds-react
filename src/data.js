@@ -2,13 +2,13 @@ export default [
     {
         id: 1,
         name: "Tufted Titmouse",
-        image: "../images/tufted-titmouse.avif",
+        image: "./images/tufted-titmouse.avif",
         audio: "../audios/tufted-titmouse.mp3"
     },
     {
         id: 2,
         name: "Downy Woodpecker",
-        image: "../images/downy-woodpecker.jpeg",
+        image: "images/downy-woodpecker.jpeg",
         audio: "../audios/downy-woodpecker.mp3"
     },
     {
